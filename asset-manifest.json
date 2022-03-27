@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monster-rodolox/static/css/main.03cdc20c.css",
+    "main.js": "/monster-rodolox/static/js/main.904b1e5f.js",
+    "static/js/787.28cb0dcd.chunk.js": "/monster-rodolox/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/monster-rodolox/index.html",
+    "main.03cdc20c.css.map": "/monster-rodolox/static/css/main.03cdc20c.css.map",
+    "main.904b1e5f.js.map": "/monster-rodolox/static/js/main.904b1e5f.js.map",
+    "787.28cb0dcd.chunk.js.map": "/monster-rodolox/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03cdc20c.css",
+    "static/js/main.904b1e5f.js"
+  ]
+}
